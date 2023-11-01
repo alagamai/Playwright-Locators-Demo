@@ -30,11 +30,7 @@ test.describe.serial('locators demo project', () => {
 		let monthArr = [];
 
 		const monthElements = await monthLocator.allInnerTexts();
-		//monthArr = monthElements.split('\n');
 		monthArr = monthElements[0].split('\n');
-
-		let firstMonth = monthArr[2];
-		console.log(`Selecting month len: ***  ${monthArr.length}  ${firstMonth}`); // Log the option being selected
 
 		const rand = getRandomInt(1, monthArr.length - 1);
 		console.log(`Selecting month: *** N  ${rand} ${monthArr[rand]} `); // Log the option being selected
