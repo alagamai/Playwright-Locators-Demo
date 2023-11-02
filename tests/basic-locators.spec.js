@@ -35,9 +35,8 @@ test.describe.serial('locators demo project', () => {
 		const rand = getRandomInt(1, monthArr.length - 1);
 		console.log(`Selecting month: *** N  ${rand} ${monthArr[rand]} `); // Log the option being selected
 
-		await page
-			.locator('[name$="Month"]')
-			.selectOption({ label: monthArr[rand] });
+		await page.locator('[name$="Month"]').selectOption('May');
+		//	.selectOption({ label: monthArr[rand] });
 		await page.locator('[name="DateOfBirthYear"]').selectOption('2000');
 
 		await page.locator('[data-val-required*="mail"]').fill(email);
