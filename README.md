@@ -41,7 +41,7 @@ NodeJS: https://nodejs.org/en/download
    https://demo.nopcommerce.com/
 
  # Screenshots
-[![HTML report](https://github.com/alagamai/Playwright-API-Automation-Mocha-Allure-Report/blob/master/images/html-report.png)]
-[![Allure report](https://github.com/alagamai/Playwright-API-Automation-Mocha-Allure-Report/blob/master/images/report1.png)]
-[![Allure show all report](https://github.com/alagamai/Playwright-API-Automation-Mocha-Allure-Report/blob/master/images/report2.png)]
+[![Test code](https://github.com/alagamai/Playwright-Locators-Demo/blob/master/images/generate-test-code.png)]
+[![HTML report](https://github.com/alagamai/Playwright-Locators-Demo/blob/master/images/report.png)]
+[![HTML detailed report](https://github.com/alagamai/Playwright-Locators-Demo/blob/master/images/report1.png)]
 
