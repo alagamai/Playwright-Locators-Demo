@@ -4,7 +4,8 @@
 	"description": "",
 	"main": "index.js",
 	"scripts": {
-		"ui-mode": "sudo npx playwright test --project=chromium  --ui"
+		"ui-mode": "sudo npx playwright test --project=chromium  --ui",
+		"show-html-report": "sudo npx playwright show-report"
 	},
 	"keywords": [],
 	"author": "",
