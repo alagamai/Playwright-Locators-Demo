@@ -1,4 +1,5 @@
 # Test automation using Playwright + generate test code and locators using test generator vs code ext  
+  and to run test in interactive mode
 
 # Prerequisites
 
@@ -44,4 +45,4 @@ NodeJS: https://nodejs.org/en/download
 [![Test code](https://github.com/alagamai/Playwright-Locators-Demo/blob/master/images/generate-test-code.png)]
 [![HTML report](https://github.com/alagamai/Playwright-Locators-Demo/blob/master/images/report.png)]
 [![HTML detailed report](https://github.com/alagamai/Playwright-Locators-Demo/blob/master/images/report1.png)]
-
+[![Interactive mode Test Runner](https://github.com/alagamai/Playwright-Locators-Demo/blob/master/images/run-test-in-ui-mode.png)]
