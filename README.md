@@ -1,5 +1,4 @@
-# Test automation using Playwright + generate test code and locators using test generator vs code ext  
-  and to run test in interactive mode
+# Test automation using Playwright + generate test code and locators using test generator + to run test in interactive mode (test runner)  
 
 # Prerequisites
 
