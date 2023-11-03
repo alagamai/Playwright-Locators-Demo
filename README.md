@@ -1,4 +1,4 @@
-# Test automation using Playwright + API automation + mocha framework + Allure Report  
+# Test automation using Playwright + generate test code and locators using test generator vs code ext  
 
 # Prerequisites
 
